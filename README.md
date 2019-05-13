@@ -1,4 +1,4 @@
-# OpsGenie Marid
+# OpsGenie Marid Container
 
 Marid is an integration server developed by Opsgenie, designed to resolve challenges faced in the integration of internal and external systems.
 
