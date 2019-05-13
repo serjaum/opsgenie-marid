@@ -14,4 +14,4 @@ https://docs.opsgenie.com/docs/marid-integration
 
 Just set the env var OPSGENIE_API_KEY with the OpsGenie Api Key before start the container.
 
-`docker run -e OPSGENIE_API_KEY opsgenie_marid`
+`docker run -e OPSGENIE_API_KEY=apikey opsgenie_marid`
